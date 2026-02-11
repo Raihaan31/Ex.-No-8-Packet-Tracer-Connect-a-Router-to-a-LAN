@@ -113,6 +113,7 @@ ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on R1 and R2 (after configuration)<br>
 
+![WhatsApp Image 2026-02-11 at 9 00 49 AM](https://github.com/user-attachments/assets/4584d8bf-7d65-44cb-a31c-77de643f67db)
 ![WhatsApp Image 2026-02-11 at 9 00 58 AM](https://github.com/user-attachments/assets/55b459b4-df9e-48d8-8f45-deeaf0870803)
 
 •	show ip route on R1 and R2<br>
